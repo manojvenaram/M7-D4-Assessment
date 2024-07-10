@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/M7-D4-Assessment/static/css/main.2b3243bc.css",
+    "main.js": "/M7-D4-Assessment/static/js/main.10aad2db.js",
+    "static/js/453.cfb4dc8c.chunk.js": "/M7-D4-Assessment/static/js/453.cfb4dc8c.chunk.js",
+    "static/media/logo.svg": "/M7-D4-Assessment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/M7-D4-Assessment/index.html",
+    "main.2b3243bc.css.map": "/M7-D4-Assessment/static/css/main.2b3243bc.css.map",
+    "main.10aad2db.js.map": "/M7-D4-Assessment/static/js/main.10aad2db.js.map",
+    "453.cfb4dc8c.chunk.js.map": "/M7-D4-Assessment/static/js/453.cfb4dc8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b3243bc.css",
+    "static/js/main.10aad2db.js"
+  ]
+}
